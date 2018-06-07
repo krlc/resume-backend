@@ -1,0 +1,110 @@
+{
+  "commands": {
+    "ls": "resume.sh\ngithub.txt\nemail.txt\nLICENSE",
+    "help": "Résumé shell, version 1.0-release\nThese shell commands are defined internally. Type `help' to see this list.\n\nhelp\nls\ncat\nsh"
+  },
+  "scripts": {
+    "resume": {
+      "Email": "kirills@ieee.org",
+      "Location": [
+        "Riga, Latvia",
+        "Valencia, California, USA"
+      ],
+      "Skills": {
+        "Languages": {
+          "Java": {
+            "Backend": "Spring, EE",
+            "GUI": "JavaFX, Processing"
+          },
+          "JavaScript": [
+            "React",
+            "React Native",
+            "Node"
+          ],
+          "Go": null,
+          "C++": "Qt",
+          "C": "MCU programming",
+          "C#": "Windows API, WFA, WCF"
+        },
+        "System Administration": {
+          "OS": {
+            "Linux": "Debian, CentOS",
+            "Windows Server": null
+          },
+          "Tools": [
+            "Travis CI",
+            "Power BI",
+            "Azure",
+            "Mantis BT"
+          ],
+          "Scripting languages": [
+            "VBScript",
+            "Batch",
+            "Bash"
+          ]
+        },
+        "Goals": [
+          "Erlang",
+          "Distributed and scalable architecture",
+          "Machine learning",
+          "FPGA accelerated computing"
+        ]
+      },
+      "Experience": {
+        "System administration lead": {
+          "At": "Progmeistars SIA",
+          "During": "2016 – present",
+          "Doing": "Working as a technical lead to identify and implement solutions to problems affecting IT services",
+          "In detail": [
+            "Installation, maintenance and troubleshooting of all hardware and software systems",
+            "Building and configuration server and desktop hardware",
+            "Providing consultation and advice on selection IT equipment"
+          ]
+        },
+        "Full stack developer": {
+          "At": "WebLab SIA",
+          "During": "2014 – 2015",
+          "Doing": "Working as a frontend and PHP developer on varied aspects of the custom web software implementation",
+          "In detail": [
+            "Developing new components and extending software functionality",
+            "Support and troubleshooting of the existing software"
+          ]
+        },
+        "IEEE Latvia section member": {
+          "During": "2018 – present",
+          "Doing": "Popularising computer science and electronics among Latvian students to gather more fresh minds and develop a better future"
+        },
+        "2018 IEEE SYP Congress participation scholarship": {
+          "In": "Porto, Portugal",
+          "During": "July 2018",
+          "Doing": "Enhancing and fostering the engineering sense and capabilities through different activities both technically and culturally"
+        }
+      },
+      "Education": {
+        "Rīgas 10. vidusskola": {
+          "In": "Riga, Latvia",
+          "During": "2007 - present"
+        },
+        "Valencia High School": {
+          "In": "Valencia, California, USA",
+          "During": "2017 - 2018"
+        },
+        "Progmeistars SIA": {
+          "In": "Riga, Latvia",
+          "During": "2013 - present",
+          "Doing": "Algorithms, Java, C++, C"
+        },
+        "BJC Rīgas Skolenu Pils": {
+          "In": "Riga, Latvia",
+          "During": "2010 - 2014",
+          "Doing": "Electronics"
+        }
+      }
+    }
+  },
+  "files": {
+    "github": "https://github.com/krlc/resume-webpage",
+    "email": "kirills@ieee.org",
+    "LICENSE": "MIT License\n\nCopyright (c) 2018 Kirills Cernadjevs\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, \nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, \nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  }
+}
