@@ -1,0 +1,7 @@
+syntax = "proto3";
+option optimize_for = SPEED;
+
+message TerminalData {
+  required string status = 1;
+  optional string response = 2;
+}

@@ -6,12 +6,12 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
+    "protobufjs": "^6.8.6",
     "treeify": "https://github.com/krlc/treeify"
   },
   "engines": {
     "node": "10.3.0"
   },
-  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   }
